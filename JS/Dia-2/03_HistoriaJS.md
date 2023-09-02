@@ -26,4 +26,8 @@ aplicativos.
 documentação disponíveis online. Isso torna mais fácil para os desenvolvedores aprenderem e aprimorarem suas habilidades em
 JavaScript.
 
+## Finalização
+
+Por enquanto foi apenas isso, uma breve introdução do que é o JavaScript
+
 
