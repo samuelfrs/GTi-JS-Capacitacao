@@ -58,7 +58,7 @@ Após isso abrirá um painel de pesquisa, vamos começar as recomendações:
 ![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/bab8f926-e4be-4ac4-bccf-b7cbf1a5b7e3)
 
 
-# Finalização
+## Finalização
 Nesse momento você aprendeu sobre IDE e setou inicialmente seu primeiro "projeto" com extensões para facilitar sua vida em um ambiente de trabalho integrado. Aguardo você na próxima :D .
 
 
