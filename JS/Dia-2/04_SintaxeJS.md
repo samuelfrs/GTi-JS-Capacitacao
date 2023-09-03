@@ -62,6 +62,97 @@ Após isso será possível ver no console, o tipo de variável que é x, no caso
 
 Perceba que no console será exibido alguns dos tipos de dados que vimos anteriormente, perceba também que tanto int quanto float são reconhecidos como Number
 
+## Operadores
+
+Vamos para o próximo tópico que são os **operadores**. Eles se dividem em algumas categorias, que são:
+
+* Operadores Aritméticos:
+1) Adição (+)
+2) Subtração (-)
+3) Multiplicação (*)
+4) Divisão (/)
+5) Módulo (%)
+
+* Operadores de Atribuição
+1) Atribuição (=)
+2) Atribuição de Adição (+=)
+3) Atribuição de Subtração (-=)
+4) Atribuição de Multiplicação (*=)
+5) Atribuição de Divisão (/=)
+6) Atribuição de Módulo (%=)
+
+* Operadores de Comparação
+1) Igual a (==)
+2) Diferente de (!=) **Esse operador tem um ponto especial no **!** que consiste em uma negação, será explicada melhor mais para frente**
+3) Estritamente igual a (===)
+4) Estritamente diferente de (!==)
+5) Maior que (>)
+6) Menor que (<)
+7) Maior ou igual a (>=)
+8) Menor ou igual a (<=)
+
+* Operadores Lógicos
+1) E lógico (&&) o E é usado para validação de 2 ou mais condições, e só retornará True caso todas as condições sejam satisfeitas
+
+2) OU lógico (||) o OU também é usado para validação de 2 ou mais condições e retornará True caso ao menos uma das x condições sejam satisfeitas
+
+3) Negação lógica (!) a Negação verificará a condição e retornará o oposto do que deveria ser retornado, a visualização dele é mais complicada mas com o tempo você pega o jeito.c
+
+* Outros Operadores **usados menos (com excessão do ternário), porém é importante saber da existência.**
+1) Operadore ternário (?) **é uma condicional resumida**
+2) typeof
+3) instanceof
+4) in
+5) delete
+6) new
+7) Incremento (++)
+8) Decremento (--)
+
+Agora que temos conhecimento sobre os tópicos abordados nesse módulo, vamos fazer alguns testes:
+
+* Operadores Aritméticos:
+
+Uma explicação sobre o operador **Módulo**: Ele consiste no resto da divisão do x pelo y, no caso o resto da divisão de 10 por 10, como dá um número inteiro, ele retorna zero. Teste utilizando em uma divisão que não dê inteiro, como  10/3 por exemplo.
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/c9fcea49-90b3-4d11-a60b-05a04c70dcfb)
+
+Essa deve ser a saída no console:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/7ed161b2-19cc-497c-b024-420eda6774cc)
+
+
+* Operadores de Atribuição:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/31dc717a-62cf-46fc-96fe-f52a2c9bdd90)
+
+Saída no terminal(**Observe que na operação do Módulo, a saída foi o resto da divisão, que no caso é 1**):
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/1fa00e5c-a97b-4056-8e6b-a5885df8b783)
+
+* Operadores de Comparação:
+
+A saída no console dos operadores de Comparação são resultados booleanos (True e false).
+
+A respeito dos operadores **Estritamente igual e Estritamente diferente** é importante citar que são usados mais para validações do jeito do print. x e xstring têm 10 como valor, só que x é um **Number** e xstring é uma **String**, então acabam não sendo Estritamente iguais
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/ae24e9e9-1141-4166-b853-9a9690418140)
+
+A saída no console deve ser:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/34a494fa-93b3-428e-bca4-ea824decf696)
+
+* Operadores Lógicos:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/3ca4945e-1d9e-45a8-862a-a78c290c0b86)
+
+Saída no console:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/0624d0d9-a97d-4326-aa46-80dbb6eb928a)
+
+
+
+
+
 
 
 
