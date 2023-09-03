@@ -150,7 +150,9 @@ Saída no console:
 ![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/0624d0d9-a97d-4326-aa46-80dbb6eb928a)
 
 
+# Finalização
 
+Acabamos por aqui. Eu fiz questão de em alguns momentos utilizar algumas coisas que talvez vocês não tenham pensado, como o uso do typeof para a validação do OU lógico. Isso foi com o intuito de vocês verem que esses operadores podem ser utilizados de diversas formas e nas mais variadas situações. Mas enfim, por hoje é só, futuramente teremos alguns exercícios, mas enquanto não temos, sintam-se à vontade para botar em prática o que vimos até aqui da forma que acharem melhor e lembrem-se: **Qualquer dúvida não hesitem em me chamar para sanar.** Bons estudos :D
 
 
 
