@@ -1,4 +1,4 @@
-![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/8cbafa5e-b7a2-4e8f-997e-d8cfebd5c1a0)## Condicionais
+# Condicionais
 
 Vamos começar a entrar mais nos conceitos de programação, partindo das condicionais. Vocês já viram elas em cadeiras de programação,
 mas resumidamente temos **if**, **else** e **else if**.
