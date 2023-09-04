@@ -40,4 +40,6 @@ Saída no console:
 O poder das condicionais são absurdos, você pode fazer várias coisas com elas, desde validações de dados à jogos simples.
 
 
-## 
+## Finalização
+
+Por esse módulo é apenas isso, condicionais são de fácil aplicação, mas busque fazer outros tipos de validações, como por exemplo, verificações de condições booleanas para saber se um certo usuário tem permissão de acessar um painel (Faça apenas a lógica simples)
