@@ -39,6 +39,20 @@ Saída no console:
 
 O poder das condicionais são absurdos, você pode fazer várias coisas com elas, desde validações de dados à jogos simples.
 
+## Shorthands
+
+Shorthands condicionais, também conhecidos como operadores ternários, são construções em JavaScript que permitem que você avalie uma expressão condicional de forma concisa e retorne um valor com base nessa condição. Eles são frequentemente usados para atribuir valores com base em uma condição em uma única linha de código. Segue a seguinte sintaxe: **condição ? true:false**. Vamos aplicar em um código para entender:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/f0073c60-bfeb-4fe5-9031-c6a0edf19793)
+
+Ele exibirá isso no console:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/99d0455b-fe57-44b1-afcb-69cc9f2ecbdc)
+
+experimente trocar o valor de x para false, e veja o console.
+
+
+
 
 ## Finalização
 
