@@ -35,9 +35,9 @@ Vamos explicar no que consiste cada uma:
 * Undefined(Indefinido)
 * Null(Nulo)
 * Object(Objeto)
-* Array(Matriz)
+* Array(Array)
 * Symbol(Símbolo)
-* BigInt(BigInteiro)
+* BigInt(int com mais bytes)
 
 Você pode já conhecer algum ou todos, mas com o tempo iremos nos habituar a cada um ou pelo menos à grande maioria deles. Vamos então à um exemplo prático.
 
