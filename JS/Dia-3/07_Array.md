@@ -119,6 +119,16 @@ Saída no console:
 
 ![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/49baa3ae-b7d6-4281-b4df-fb34b42ece2b)
 
+* .forEach
+
+O método forEach é útil quando você precisa realizar uma operação específica em cada elemento de um array, mas não precisa criar um novo array ou modificar o array original. Pode ser usado para várias tarefas, como exibir elementos em uma interface de usuário, calcular estatísticas simples ou realizar outras operações personalizadas em cada item da coleção. Veja:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/bba8c127-52d8-41f8-bf8f-e216872df351)
+
+Saída no console:
+
+![image](https://github.com/samuelfrs/GTi-JS-Capacitacao/assets/81939929/cf0e98c5-4c27-4dd7-ba48-c2ee0d413302)
+
 ## Finalização
 
 Por hoje é só, vocês aprenderam os métodos mais importantes dos Arrays, então pratiquem e vejam por si só o que podem fazer com isso. Nos vemos na próxima :D
